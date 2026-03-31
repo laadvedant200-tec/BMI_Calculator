@@ -60,4 +60,4 @@ $$BMI = \frac{\text{weight (kg)}}{\text{height (m)}^2}$$
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Created with ❤️ by Your Name*
+*Created with ❤️ by Vedant laad*
